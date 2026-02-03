@@ -1,5 +1,5 @@
 # 💫 About Me:
-Am software Enginner<br>Aim to be web developer/Data Analyst ✨<br>
+Am software Engineer<br>Aim to be web developer/Data Analyst ✨<br>
 
 
 ## 🌐 Socials:
